@@ -1,6 +1,7 @@
 # Bitrise Android Sample
 
 [![Bitrise status](https://app.bitrise.io/app/126b7fcfb72b97b4/status.svg?token=h4grjIEASivj7z_plB9zGg&branch=main)](https://app.bitrise.io/app/126b7fcfb72b97b4)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fofalvai%2FBitrise-Android-Sample.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fofalvai%2FBitrise-Android-Sample?ref=badge_shield)
 
 This is a sample Android project that demonstrates a typical [Bitrise](https://bitrise.io) CI/CD setup. Build history is publicly available [here](https://app.bitrise.io/app/126b7fcfb72b97b4#/builds).
 
@@ -31,3 +32,6 @@ While this repo demonstrates a simple project config on Bitrise, there are many 
 - [Exporting a universal APK from an AAB](https://devcenter.bitrise.io/deploy/android-deploy/exporting-a-universal-apk-from-an-aab/)
 - [Running tests in Visual Studio App Center](https://devcenter.bitrise.io/testing/run-your-tests-in-the-app-center/)
 - [Measuring your code coverage with Codecov](https://devcenter.bitrise.io/testing/measuring-your-code-coverage-with-codecov/)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fofalvai%2FBitrise-Android-Sample.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fofalvai%2FBitrise-Android-Sample?ref=badge_large)
